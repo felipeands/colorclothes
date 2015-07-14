@@ -27,7 +27,7 @@
   .controller('MainController', [
     '$scope',
     function($scope) {
-      $scope.title = "Titulo teste";
+      $scope.title = "Bom dia";
     }
   ]);
 }());

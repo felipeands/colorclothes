@@ -1,2 +1,2 @@
 # colorclothes
-A cordova angular ionic trivial app
+A gulp cordova angular ionic trivial app
