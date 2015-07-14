@@ -1,4 +1,5 @@
 platforms
+webapp/dist
 webapp/app/bower_components
 webapp/node_modules
 
