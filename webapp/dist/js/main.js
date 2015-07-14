@@ -1,1 +1,0 @@
-!function(){"use strict";angular.module("ColorApp",["ngRoute","ngAnimate"]).config(["$locationProvider","$routeProvider",function(o,e){o.hashPrefix("!"),e.when("/",{templateUrl:"./views/home.html",controller:"MainController"}).otherwise({redirectTo:"/"})}]),angular.module("ColorApp").controller("MainController",["$scope",function(o){o.title="Bom dia"}])}();
