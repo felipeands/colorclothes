@@ -1,0 +1,24 @@
+{
+  "name": "coloclothes",
+  "version": "0.0.1",
+  "authors": [
+    "Felipe Andrada <felipe.andrada@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.2",
+    "angular-animate": "~1.4.2",
+    "angular-route": "~1.4.2",
+    "jquery": "~2.1.4",
+    "animate.css": "~3.3.0",
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.3.0"
+  }
+}
