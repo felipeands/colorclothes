@@ -41,7 +41,8 @@ gulp.task('serve', ['sass'], function() {
     }
   });
 
-  gulp.watch('./app/css/main.scss', ['sass']);
+  gulp.watch('./app/index.html', './app/views/home.html', './app/css/main.scss', ['sass']);
+
 });
 
 gulp.task('minify-css', function() {
